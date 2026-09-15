@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.4.0](https://github.com/open-feature/php-sdk/compare/2.3.0...2.4.0) (2026-09-15)
+
+
+### ✨ New Features
+
+* expose OpenFeature flag metadata  ([#180](https://github.com/open-feature/php-sdk/issues/180)) ([180e0cf](https://github.com/open-feature/php-sdk/commit/180e0cf40b4f37abefd75afe055c577d1e65beff))
+
+
+### 🧹 Chore
+
+* extend from org renovate config ([#184](https://github.com/open-feature/php-sdk/issues/184)) ([30465e5](https://github.com/open-feature/php-sdk/commit/30465e53c2d868b70156e619940c4b92fff97dcf))
+
 ## [2.3.0](https://github.com/open-feature/php-sdk/compare/2.2.0...2.3.0) (2026-06-10)
 
 
